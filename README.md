@@ -1,10 +1,9 @@
 
 <p align="center">
-    <img alt="Hack Lab." src="https://i.imgur.com/C3zISlU.gif"/>
+    <img alt="Pozitron Hack Lab." src="https://user-images.githubusercontent.com/61369603/104271746-a8eacb80-54ac-11eb-9df3-6a8ea32ba52d.png">
     <p align="center">
-        <a href="https://github.com/Realradioactive"><img alt="Release" src="https://github.com/Realradioactive"></a>
-        <a href="https://github.com/Realradioactive"><img alt="twitter" src="https://github.com/Realradioactive"></a>
-    </p>
+       
+   
 </p>
 
 ---
